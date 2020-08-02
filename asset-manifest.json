@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fibonacci/static/css/main.8d2135f2.chunk.css",
+    "main.js": "/fibonacci/static/js/main.e8bc0987.chunk.js",
+    "main.js.map": "/fibonacci/static/js/main.e8bc0987.chunk.js.map",
+    "runtime-main.js": "/fibonacci/static/js/runtime-main.ec247adb.js",
+    "runtime-main.js.map": "/fibonacci/static/js/runtime-main.ec247adb.js.map",
+    "static/js/2.c2cfbc38.chunk.js": "/fibonacci/static/js/2.c2cfbc38.chunk.js",
+    "static/js/2.c2cfbc38.chunk.js.map": "/fibonacci/static/js/2.c2cfbc38.chunk.js.map",
+    "index.html": "/fibonacci/index.html",
+    "precache-manifest.9a59e8f14393576e6e8d2c908b486d85.js": "/fibonacci/precache-manifest.9a59e8f14393576e6e8d2c908b486d85.js",
+    "service-worker.js": "/fibonacci/service-worker.js",
+    "static/css/main.8d2135f2.chunk.css.map": "/fibonacci/static/css/main.8d2135f2.chunk.css.map",
+    "static/js/2.c2cfbc38.chunk.js.LICENSE.txt": "/fibonacci/static/js/2.c2cfbc38.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec247adb.js",
+    "static/js/2.c2cfbc38.chunk.js",
+    "static/css/main.8d2135f2.chunk.css",
+    "static/js/main.e8bc0987.chunk.js"
+  ]
+}
